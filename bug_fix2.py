@@ -1,0 +1,1 @@
+print('opyat eti bagi')
