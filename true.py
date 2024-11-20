@@ -1,1 +1,1 @@
-#я вас веду сквозь вековечный стон
+#Lumina ista me oppugnant
